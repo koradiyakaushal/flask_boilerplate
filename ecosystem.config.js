@@ -10,4 +10,3 @@ module.exports = {
       interpreter:'/var/lib/jenkins/workspace/test 2/venv/bin/python'
     }]
   };
-  
