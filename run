@@ -1,3 +1,3 @@
 pip install pipenv
 pipenv install --ignore-pipfile
-pipenv run python api/run.py
+pm2 start ecosystem.config.js
