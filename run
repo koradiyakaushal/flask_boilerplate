@@ -1,1 +1,3 @@
+pip install pipenv
+pipenv install --ignore-pipfile
 pipenv run python api/run.py
