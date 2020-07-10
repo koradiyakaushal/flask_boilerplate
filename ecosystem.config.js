@@ -7,7 +7,7 @@ module.exports = {
       autorestart: true,
       watch: false,
       max_memory_restart: '1G',
-      interpreter:'/var/lib/jenkins/workspace/test 2/venv/bin/activate'
+      interpreter:'/var/lib/jenkins/workspace/test 2/venv/bin/python'
     }]
   };
   
